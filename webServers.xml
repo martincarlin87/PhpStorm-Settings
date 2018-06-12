@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="20c5481f-9aba-43f2-9806-bd6edeafd9ff" name="Renewals" url="http://envoypro.docker/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
