@@ -5,6 +5,5 @@
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="IS_VIRTUAL_SPACE" value="true" />
   </component>
 </application>
