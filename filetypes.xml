@@ -3,12 +3,14 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="emails" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".htacess" type="PLAIN_TEXT" />
       <mapping pattern="dseed" type="PLAIN_TEXT" />
       <mapping pattern="nothing" type="PLAIN_TEXT" />
       <mapping pattern="migrate.sh" type="PLAIN_TEXT" />
       <mapping pattern=".test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
