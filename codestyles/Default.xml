@@ -10,9 +10,6 @@
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="Blade">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
