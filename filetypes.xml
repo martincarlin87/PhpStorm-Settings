@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="VirtualEventSupplierBuyerMessage.php" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
